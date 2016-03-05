@@ -1,2 +1,3 @@
 # Summary
-* [Init](README.md)
+* [Title](README.md)
+* [MVP](mvp/strategy.md)
