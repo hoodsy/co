@@ -4,6 +4,7 @@
 #### Co Specific
 * [Annotate a webpage](#annotate-a-webpage)
   * [View annotations](#view-annotations)
+  * [Respond to an annotation](#respond-to-an-annotation)
 
 #### Standard
 * [Navigate to a webpage by URL]()
@@ -33,3 +34,11 @@
   - *View* annotated text w/ annotatee info / time posted
     - (pinned to top)
   - *Read* feed of comments, oldest -> newest
+  - Optionally, *like* a comment
+
+##### Respond to an annotation
+1. Visit a webpage
+2. *Notice and click* annotated text
+  - *Click* input to type reply
+  _ *Submit* reply
+  - Optionally, *edit* reply
