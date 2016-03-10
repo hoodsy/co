@@ -2,6 +2,8 @@
 * [Title](README.md)
 * [MVP](mvp/strategy.md)
   * [Features](mvp/features.md)
+  * [Competition](mvp/competition.md)
+  * [Business Model](mvp/business-model.md)
 * [Flows]()
   * [Browser](flows/browser.md)
   * [Feed](flows/feed.md)
