@@ -22,3 +22,11 @@
 2. *Like* shared page (feed item)
 3. *View and respond* to webpage
   - [view and respond to webpage in browser](browser.md#respond-to-an-annotation)
+
+##### Share page
+1. View webpage
+2. *Share* page
+  - Optionally, *filter* the share by group/tribe(s)
+    - Optionally, *create* a new tribe
+  - Optionally, *bookmark* page
+    - Optionally, *organize* the bookmark on creation
