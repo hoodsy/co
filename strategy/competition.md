@@ -1,7 +1,9 @@
 # Competition
 
 #### Major Players - Market Share
-[Data Source](http://gs.statcounter.com/)
+**[Data Source](http://gs.statcounter.com/)**
+
+*To Note:* Most browser data found online varies slightly - this source exhibits trends inline with other sources will providing convenient filtering.
 
 **Desktop - 2/15-2/16**
 
