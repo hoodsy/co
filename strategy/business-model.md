@@ -1,4 +1,4 @@
-# Summary
+# Business Models
 
 ### Standard Browser Business Models
 
