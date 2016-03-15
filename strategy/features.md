@@ -1,4 +1,4 @@
-# Features
+# Future Features
 
 ### Feed
 
@@ -18,27 +18,15 @@
   - By any combination of tribes
   - Defaults to all
 
-- (FUTURE) Search the feed
+- Search the feed
 
 ### Browser
 
-- Annotation:
-  - Select text, leave comments
-  - Optionally, specify only certain tribes
+- Mark videos at times, with comments
+- Select colors for each tribes 
 
-- Filter:
-  - By tribe
-  - (FUTURE) By date/time
+### Bookmarks
 
-- (FUTURE) Mark videos at times, with comments
-- (FUTURE) Select colors for each tribes 
-
-### (NEEDS NAME) Tribes / Resources / Bookmarks
-
-- Default to personal dashboard on share/save
-  - Optionaly, able to bucket into tribe/dashboard/list at this time
-  - Otherwise, easily move to other lists from personal dashboard
-
-- (FUTURE) Draggable, manageable group lists
-- (FUTURE) Public tribes for anyone to join
-- (DECISION) Reduce dashboard/list to folders, which are nestable?
+- Auto detect relevant folders to save bookmarks to on share
+- Draggable, manageable group lists
+- Public groups for anyone to join
